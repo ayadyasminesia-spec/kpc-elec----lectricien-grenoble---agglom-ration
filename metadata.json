@@ -1,0 +1,6 @@
+{
+  "name": "KPC ELEC - Électricien Grenoble & Agglomération",
+  "description": "Électricien certifié à Grenoble depuis 2018. Dépannage urgent, rénovation de tableaux électriques, conformité NF C 15-100 et devis gratuit sous 24h.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
